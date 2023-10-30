@@ -15,7 +15,7 @@
 		<mule.version>3.9.2</mule.version>
 		<mule.tools.version>1.7</mule.tools.version>
 		<!-- more properties here -->
-		<activemq-client.version>5.15.11</activemq-client.version>
+		<activemq-client.version>5.15.16</activemq-client.version>
 		<activemq-broker.version>5.15.11</activemq-broker.version>
 		<activemq-kahadb-store.version>5.15.11</activemq-kahadb-store.version>
 	</properties>
